@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FlowerGame.Core.Tests/FlowerGame.Core.Tests.csproj" />
+  <Project Path="FlowerGame.Core/FlowerGame.Core.csproj" />
+  <Project Path="FlowerGame.Prototype/FlowerGame.Prototype.csproj" />
+</Solution>
