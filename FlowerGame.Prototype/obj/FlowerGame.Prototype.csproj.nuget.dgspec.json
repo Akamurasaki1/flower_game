@@ -10,7 +10,7 @@
         "projectUniqueName": "/home/runner/work/flower_game/flower_game/FlowerGame.Core/FlowerGame.Core.csproj",
         "projectName": "FlowerGame.Core",
         "projectPath": "/home/runner/work/flower_game/flower_game/FlowerGame.Core/FlowerGame.Core.csproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
+        "packagesPath": "/tmp/codeql-scratch-3857566d58363c1e/dbs/csharp/working/packages",
         "outputPath": "/home/runner/work/flower_game/flower_game/FlowerGame.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -56,6 +56,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.31, 8.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.31, 8.0.31]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -71,7 +81,7 @@
         "projectUniqueName": "/home/runner/work/flower_game/flower_game/FlowerGame.Prototype/FlowerGame.Prototype.csproj",
         "projectName": "FlowerGame.Prototype",
         "projectPath": "/home/runner/work/flower_game/flower_game/FlowerGame.Prototype/FlowerGame.Prototype.csproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
+        "packagesPath": "/tmp/codeql-scratch-3857566d58363c1e/dbs/csharp/working/packages",
         "outputPath": "/home/runner/work/flower_game/flower_game/FlowerGame.Prototype/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -121,6 +131,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.31, 8.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.31, 8.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.31, 8.0.31]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fcfyGRpqzuI=",
+  "dgSpecHash": "6vlsmJtb334=",
   "success": true,
   "projectFilePath": "/home/runner/work/flower_game/flower_game/FlowerGame.Prototype/FlowerGame.Prototype.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/tmp/codeql-scratch-3857566d58363c1e/dbs/csharp/working/packages/microsoft.netcore.app.ref/8.0.31/microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "/tmp/codeql-scratch-3857566d58363c1e/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/8.0.31/microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "/tmp/codeql-scratch-3857566d58363c1e/dbs/csharp/working/packages/microsoft.netcore.app.host.linux-x64/8.0.31/microsoft.netcore.app.host.linux-x64.8.0.31.nupkg.sha512"
+  ],
   "logs": []
 }
